@@ -1,0 +1,8 @@
+Accuracy:
+Logistic Regression: 0.942000
+K-Nearest Neighbors (K-NN): 0.935333
+SVM: 0.941333
+SVM kernel: 0.940667
+Naive Bayes: 0.922667
+Decision Tree: 0.922667
+Random Forest: 0.940000
